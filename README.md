@@ -50,9 +50,9 @@
 <a href="https://github.com/carlalrfranca/basecamp/blob/master/c04/ft_strlen.c"><code>ft_strlen</code></a> - returns a length of a string in bytes.<br>
 <a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_fibonacci.c"><code>ft_fibonacci</code></a> - displays a fibonacci sequence recursively.<br>
 <a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_find_next_prime.c"><code>ft_find_next_prime</code></a> - returns  next prime number.<br>
-<a href="https://github.com/carlalrfranca/42_Projects/blob/main/basecamp/c05/ft_is_prime.c"><code>ft_is_prime</code></a> - displays next prime number.<br> 
-<a href="https://github.com/carlalrfranca/42_Projects/blob/main/basecamp/c05/ft_iterative_factorial.c"><code>ft_iterative_factorial</code></a> - displays a factorial number.<br> 
-<a href="https://github.com/carlalrfranca/42_Projects/blob/main/basecamp/c05/ft_iterative_power.c"><code>ft_iterative_power</code></a> - recursive function. <br>
-<a href="https://github.com/carlalrfranca/42_Projects/blob/main/basecamp/c05/ft_recursive_factorial.c"><code>ft_recursive_factorial</code></a> - returns a factorial recursively. <br>
-<a href="https://github.com/carlalrfranca/42_Projects/blob/main/basecamp/c05/ft_recursive_power.c"><code>ft_recursive_power</code></a> - displays a recursive function. <br>
-<a href="https://github.com/carlalrfranca/42_Projects/blob/main/basecamp/c05/ft_sqrt.c"><code>ft_sqrt</code></a> - calculate an integer recursively. <br>
+<a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_is_prime.c"><code>ft_is_prime</code></a> - displays next prime number.<br> 
+<a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_iterative_factorial.c"><code>ft_iterative_factorial</code></a> - displays a factorial number.<br> 
+<a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_iterative_power.c"><code>ft_iterative_power</code></a> - recursive function. <br>
+<a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_recursive_factorial.c"><code>ft_recursive_factorial</code></a> - returns a factorial recursively. <br>
+<a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_recursive_power.c"><code>ft_recursive_power</code></a> - displays a recursive function. <br>
+<a href="https://github.com/carlalrfranca/basecamp/blob/master/c05/ft_sqrt.c"><code>ft_sqrt</code></a> - calculate an integer recursively. <br>
